@@ -4,6 +4,6 @@
 
 int main(int argc, char *argv[])
 {
-	std::cout << "Hello, World c++" << end1;
+	std::cout << "Hello, World C++!" << endl;
 	return 0;
 }
